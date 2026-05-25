@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\viewmodel\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\viewmodel\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\viewmodel\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\viewmodel\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\25 may.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\25 may.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|c:\\users\\ii novbe\\onedrive\\desktop\\25 may\\25 may\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399C56E9-49EF-4066-93A5-2C6A5F960C7C}|25 may\\25 may.csproj|solutionrelative:25 may\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:01:50.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:01:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:35:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:25:23.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "25 may\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T10:16:32.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "25 may\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T10:27:28.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Member\\Update.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Views\\Member\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Member\\Update.cshtml",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Views\\Member\\Update.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwB0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T12:28:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:34:48.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\ViewModel\\CreateVM.cs",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\ViewModel\\CreateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\ViewModel\\CreateVM.cs",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\ViewModel\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:17:30.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBgAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T12:22:45.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:02:16.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:22:09.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\ViewModel\\UpdateVM.cs",
+              "RelativeDocumentMoniker": "25 may\\Areas\\AdminPanel\\ViewModel\\UpdateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Areas\\AdminPanel\\ViewModel\\UpdateVM.cs",
+              "RelativeToolTip": "25 may\\Areas\\AdminPanel\\ViewModel\\UpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:17:45.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Models\\History.cs",
+              "RelativeDocumentMoniker": "25 may\\Models\\History.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Models\\History.cs",
+              "RelativeToolTip": "25 may\\Models\\History.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:28:49.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\appsettings.json",
+              "RelativeDocumentMoniker": "25 may\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\appsettings.json",
+              "RelativeToolTip": "25 may\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T10:15:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Program.cs",
+              "RelativeDocumentMoniker": "25 may\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Program.cs",
+              "RelativeToolTip": "25 may\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:17:35.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "25 may\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "25 may\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T10:17:03.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "25 may\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "25 may\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:32:58.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "25 may\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "25 may\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:15:32.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Models\\Base.cs",
+              "RelativeDocumentMoniker": "25 may\\Models\\Base.cs",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\Models\\Base.cs",
+              "RelativeToolTip": "25 may\\Models\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:28:15.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "25 may",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\25 may.csproj",
+              "RelativeDocumentMoniker": "25 may\\25 may.csproj",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\25 may.csproj",
+              "RelativeToolTip": "25 may\\25 may.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-25T10:14:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "25 may\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II novbe\\OneDrive\\Desktop\\25 may\\25 may\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "25 may\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-25T10:18:41.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1571,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1438,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
